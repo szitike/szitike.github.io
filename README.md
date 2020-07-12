@@ -1,2 +1,2 @@
 # szitike.github.io
-Demo.
+Demo page.
